@@ -1,0 +1,16 @@
+id: energia-solar-aerotermia
+title: Energía solar y aerotermia
+color: link-dark
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 2
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - energia-solar-aerotermia-2022-03-17-0013.jpg
+  - energia-solar-aerotermia-2022-03-17-0038.jpg

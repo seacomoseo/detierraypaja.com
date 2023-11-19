@@ -1,0 +1,18 @@
+id: casas-de-paja
+title: Casas de Paja
+subtitle: Siguiendo el modelo sostenible de la naturaleza
+color: main-dark
+bg: casas-paja-2021-12-29-11-28-59.jpg
+more:
+  full_screen: true
+  opacity: 100
+  parallax: true
+  flip_x: false
+  flip_y: false
+  divider: brush
+rows:
+- type: columns
+  design:
+    num: 1
+  items:
+  - link: /casas-paja/

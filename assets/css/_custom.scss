@@ -1,0 +1,40 @@
+// Header
+
+#body-inicio #header {
+  .section__header {
+    display: none;
+    + .description {
+      margin-top: 1.5em;
+    }
+  }
+}
+
+// Header Animations
+
+.section--header {
+  .image {
+    transform-origin: center;
+    animation: show-up .5s 0s both;
+  }
+  .section__header {
+    animation: show-up .5s .25s both;
+  }
+  .description {
+    p {
+      animation: show-up .5s .25s both;
+    }
+    .buttons {
+      animation: show-up .5s .5s both;
+    }
+  }
+  .image__inner {
+    fill: var(--text);
+  }
+}
+
+
+// Sections
+
+.column:not(#aux) .image--grayscale .image__inner {
+  filter: sepia(1);
+}

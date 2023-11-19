@@ -1,0 +1,32 @@
+baseURL: https://detierraypaja.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/detierraypaja/detierraypaja.com
+  netlify_name: detierraypaja
+  netlify_id: 8e4a3048-bc95-44c7-90d4-df24a1819964
+  drive_link: https://drive.google.com/file/d/1dsJ1johZ7B-LUNp0mQ3s0YWUbnBJItLn
+  drive_mails: josefsr2012@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

@@ -1,0 +1,22 @@
+id: pergolas-madera
+title: Pérgolas de madera
+color: link-dark
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 4
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - pergolas-madera-1095.jpg
+  - pergolas-madera-1158.jpg
+  - pergolas-madera-2020-05-15-15-06-46.jpg
+  - pergolas-madera-2020-05-15-15-07-42.jpg
+  - pergolas-madera-2022-02-16-15-30-26.jpg
+  - pergolas-madera-2022-02-16-15-31-03.jpg
+  - pergolas-madera-2022-02-16-15-31-32.jpg
+  - pergolas-madera-2022-02-16-15-32-32.jpg

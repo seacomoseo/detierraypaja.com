@@ -1,0 +1,28 @@
+title: Fotos
+color: main-light
+more:
+  flip_x: true
+  flip_y: false
+  divider: brush
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 3
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - casas-paja-2019-07-05-17-23-42.jpg
+  - casas-paja-2022-03-16-18-09-31.jpg
+  - casas-paja-2022-03-16-18-09-44.jpg
+  - casas-paja-2020-11-04-08-12-31.jpg
+  - casas-paja-2020-11-17-19-15-48.jpg
+  - casas-paja-2021-12-29-11-01-44.jpg
+  - casas-paja-2021-12-29-11-02-27.jpg
+  - casas-paja-2021-12-29-11-28-59.jpg
+  - casas-paja-2021-12-29-11-29-08.jpg
+  - casas-paja-2021-12-29-11-31-10.jpg
+  # - casas-paja-2020-07-21-13-54-53.jpg

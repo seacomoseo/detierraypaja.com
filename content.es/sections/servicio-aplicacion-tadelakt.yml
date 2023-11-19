@@ -1,0 +1,19 @@
+id: aplicacion-tadelakt
+title: Aplicación Tadelakt
+color: link-dark
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 2
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - aplicacion-tadelakt-2019-09-21-13-01-40.jpg
+  - aplicacion-tadelakt-2019-09-22-15-58-49.jpg
+  - aplicacion-tadelakt-2020-11-22-20-45-44.jpg
+  - aplicacion-tadelakt-2022-02-08-10-46-01.jpg
+  - aplicacion-tadelakt-2022-02-08-10-53-36.jpg

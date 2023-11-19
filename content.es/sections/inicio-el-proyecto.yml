@@ -1,0 +1,54 @@
+id: el-proyecto
+title: El Proyecto
+subtitle: De Tierra y Paja
+color: white
+more:
+  flip_x: false
+  flip_y: true
+  divider: brush
+rows:
+- type: columns
+  design:
+    num: 2
+    align: left
+  items:
+  - order: 0
+    bg: fondo.jpg
+  - order: 1
+    description: |
+      Desde hace 10 años nos dedicamos a trabajar con personas que quieran desarrollar proyectos con una visión en la construcción de viviendas que nos lleven a crear espacios que aporten materiales naturales, con el fin de crear casas sanas y personas sanas. Proyectos que generen una sostenibilidad a medio y largo plazo.
+
+      Para ello tenemos en cuenta los criterios de:
+
+      - Alta eficiencia energética
+      - Economía circular
+      - Desarrollo sostenible
+      - Ecología
+      - Personas
+      - I+D
+    more:
+      align_y: center
+  - order: 3
+    bg: modulo-fardo.jpg
+  - title: Módulos Prefabricados FARDO
+    order: 2
+    link: /casas-paja/#modulos-prefabricados-fardo
+    description: |
+      Son un sistema constructivo de madera estructural y balas de paja como aislante con unas propiedades térmicas sorprendentes.
+
+      - Con materiales naturales, con criterios de sostenibilidad, dentro de la economía circular y con una huella ecológica de mínimo impacto.
+      - Ejercen las funciones de cerramiento, aislamiento y estructura.
+      - Con unos valores de aislamiento acordes al estándar Alemán PASSIVHAUSE.
+      - La gran inercia térmica de estos paneles permite amortiguar las grandes temperaturas de calor y frío.
+    more:
+      align_y: center
+  - order: 4
+    bg: ensayo-resistencia-incendios-13.jpg
+  - title: Resistencia al Fuego
+    order: 5
+    description: |
+      Los muros de paja tienen una gran resistencia al fuego superando la normativa estatal en la que se pide un mínimo de resistencia al fuego RF-30 de los materiales, es decir, que aguanten 30 minutos para que el edificio se pueda evacuar.
+
+      Los muros de paja una vez revocados según ensayos en diferentes países demostraron nuevamente la resistencia al fuego de 90 minutos, obteniendo la denominación F-90 según DIN 4102-2 al aguantar los 90 minutos sin presencia de fisuras sobre el revestimiento.
+    more:
+      align_y: center

@@ -1,0 +1,21 @@
+id: socios
+title: Socios
+subtitle: Que nos colaboran
+color: link-dark
+size: md
+more:
+  flip_x: true
+  flip_y: false
+  divider: brush
+rows:
+- type: columns
+  design:
+    num_xs: true
+    align_y: center
+    button: hide
+    grayscale: true
+  items:
+  - image: logo-amadome.png
+  - link: https://agroecologiamurcia.org/
+    label: El Borrico
+    image: logo-el-borrico.svg

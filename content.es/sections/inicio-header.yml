@@ -1,0 +1,24 @@
+id: header
+title: De Tierra y Paja
+subtitle: Arquitectura y Bioconstrucción
+color: main-dark
+image: logo.svg
+bg: fondo.jpg
+gradient: dark
+description: |
+  Siguiendo el modelo sostenible de la naturaleza
+  {.subtitle}
+
+  <!-- Proyectos de Bioconstrucción de Viviendas centrados en Tierra, Paja y Madera -->
+
+  [btn icon-plus Más](#principal)
+more:
+  full_screen: true
+  image_min: 18
+  image_max: 20
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+  flip_x: true
+  flip_y: false
+  divider: brush
