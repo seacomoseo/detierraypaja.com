@@ -13,10 +13,7 @@ rows:
   data:
   - type: schedule
     days: Lunes a Viernes
-    hours: 8:00 - 12:00
-  - type: schedule
-    days: Lunes a Viernes
-    hours: 16:00 - 20:00
+    hours: 8:00 - 20:00
   - type: br
   - type: phone
     label: 679 53 64 15
@@ -24,10 +21,8 @@ rows:
     button: link
     label: 679 53 64 15
   - type: mail
-    label: joderrrrr@detierraypaja.com
-  - type: mail
     label: info@detierraypaja.com
-    # full: true
+    full: true
   - type: address
     active: true
     name: De Tierra y Paja
