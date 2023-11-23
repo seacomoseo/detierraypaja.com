@@ -13,12 +13,17 @@ rows:
   - order: 0
     bg: modulo-fardo.jpg
   - order: 1
-    description: |
-      Los módulos FARDO son un sistema constructivo de madera estructural y balas de paja como aislante con unas propiedades térmicas sorprendentes.
+    description: >
+      Los módulos FARDO son un sistema constructivo de madera estructural y
+      balas de paja como aislante con unas propiedades térmicas sorprendentes.
+
 
       - Con materiales naturales, con criterios de sostenibilidad, dentro de la economía circular y con una huella ecológica de mínimo impacto.
+
       - Ejercen las funciones de cerramiento, aislamiento y estructura.
+
       - Con unos valores de aislamiento acordes al estándar Alemán PASSIVHAUSE.
+
       - La gran inercia térmica de estos paneles permite amortiguar las grandes temperaturas de calor y frío.
     more:
       align_y: center
@@ -31,29 +36,32 @@ rows:
     link: modulos-prefabricados-modelo-ts30.jpg
     label: Ampliar
     image: modulos-prefabricados-modelo-ts30.jpg
-    description: |
-      Para personas que buscan practicidad , en un espacio optimizado y tenerlo todo a mano
+    description: >
+      Para personas que buscan practicidad , en un espacio optimizado y tenerlo
+      todo a mano
   - title: TS40
     link: modulos-prefabricados-modelo-ts40.jpg
     label: Ampliar
     image: modulos-prefabricados-modelo-ts40.jpg
-    description: |
+    description: >
       Un espacio acogedor y versátil, a punto para refugiarse en un espacio único
   - title: TS60
     link: modulos-prefabricados-modelo-ts60.jpg
     label: Ampliar
     image: modulos-prefabricados-modelo-ts60.jpg
-    description: |
-      Se le puede sacar mas partido a una idea de compartir en familia y con los tuyos
+    description: >
+      Se le puede sacar mas partido a una idea de compartir en familia y con los
+      tuyos
   - title: TS100
     link: modulos-prefabricados-modelo-ts100.jpg
     label: Ampliar
     image: modulos-prefabricados-modelo-ts100.jpg
-    description: |
-      Un hogar perfecto para reunirte contigo y la sensación de apertura al exterior
+    description: >
+      Un hogar perfecto para reunirte contigo y la sensación de apertura al
+      exterior
 - type: columns
   items:
-  - link: modulos-prefabricados-dtyp-dossier-modulos-paja.pdf
+  - link: https://drive.google.com/file/d/1x-FieNKfRX5qqQAGnU8TjJqCwlExUHly/view?usp=sharing
     label: Dosier
     description: |
       Aquí puedes descargar el dosier:
