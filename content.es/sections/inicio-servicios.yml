@@ -10,9 +10,11 @@ rows:
 - type: columns
   design:
     num: 6
+    num_xs: 2
     color: white
     ratio: 3x2
     inset: true
+    padding: .5
   items:
   - title: Revestimientos de tierra
     link: /servicios/#revestimientos-tierra
