@@ -33,9 +33,9 @@ rows:
     inset: true
   items:
   - title: TS30
-    link: modulos-prefabricados-modelo-ts30.jpg
+    link: https://drive.google.com/file/d/1ZxHBg_gUOSmXCUwqAM41qg-ScUQXsMYc/view?usp=sharing
     label: Ampliar
-    image: modulos-prefabricados-modelo-ts30.jpg
+    image: https://drive.google.com/file/d/1ZxHBg_gUOSmXCUwqAM41qg-ScUQXsMYc/view?usp=sharing
     description: >
       Para personas que buscan practicidad , en un espacio optimizado y tenerlo
       todo a mano
@@ -61,7 +61,7 @@ rows:
       exterior
 - type: columns
   items:
-  - link: https://drive.google.com/file/d/1x-FieNKfRX5qqQAGnU8TjJqCwlExUHly/view?usp=sharing
+  - link: ''
     label: Dosier
     description: |
       Aquí puedes descargar el dosier:
