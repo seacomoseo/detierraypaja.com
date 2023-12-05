@@ -33,35 +33,35 @@ rows:
     inset: true
   items:
   - title: TS30
-    link: https://drive.google.com/file/d/1ZxHBg_gUOSmXCUwqAM41qg-ScUQXsMYc/view?usp=sharing
+    link: modulos-prefabricados-fardo-modelo-ts30.png
     label: Ampliar
-    image: https://drive.google.com/file/d/1ZxHBg_gUOSmXCUwqAM41qg-ScUQXsMYc/view?usp=sharing
+    image: modulos-prefabricados-fardo-modelo-ts30.png
     description: >
       Para personas que buscan practicidad , en un espacio optimizado y tenerlo
       todo a mano
   - title: TS40
-    link: https://drive.google.com/file/d/1hkN68d1xH-iZOd9CpsttGIqXErKFUCtI/view?usp=sharing
+    link: modulos-prefabricados-fardo-modelo-ts40.png
     label: Ampliar
-    image: https://drive.google.com/file/d/1hkN68d1xH-iZOd9CpsttGIqXErKFUCtI/view?usp=sharing
+    image: modulos-prefabricados-fardo-modelo-ts40.png
     description: >
       Un espacio acogedor y versátil, a punto para refugiarse en un espacio único
   - title: TS60
-    link: https://drive.google.com/file/d/1jxp3kBZWEpZ6_XOg34WcEmN5cFaJi4Dg/view?usp=sharing
+    link: modulos-prefabricados-fardo-modelo-ts60.png
     label: Ampliar
-    image: https://drive.google.com/file/d/1jxp3kBZWEpZ6_XOg34WcEmN5cFaJi4Dg/view?usp=sharing
+    image: modulos-prefabricados-fardo-modelo-ts60.png
     description: >
       Se le puede sacar mas partido a una idea de compartir en familia y con los
       tuyos
   - title: TS100
-    link: https://drive.google.com/file/d/178vDuCTSat6_jVboXVkI98GDQf5zpzYb/view?usp=sharing
+    link: modulos-prefabricados-fardo-modelo-ts100.png
     label: Ampliar
-    image: https://drive.google.com/file/d/178vDuCTSat6_jVboXVkI98GDQf5zpzYb/view?usp=sharing
+    image: modulos-prefabricados-fardo-modelo-ts100.png
     description: >
       Un hogar perfecto para reunirte contigo y la sensación de apertura al
       exterior
 - type: columns
   items:
-  - link: ''
+  - link: modulos-prefabricados-dtyp-dossier-modulos-paja-fardo-2024.pdf
     label: Dosier
     description: |
       Aquí puedes descargar el dosier:
