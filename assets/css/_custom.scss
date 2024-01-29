@@ -14,17 +14,17 @@
 .section--header {
   .image {
     transform-origin: center;
-    animation: show-up .5s 0s both;
+    animation: show-from .5s 0s both;
   }
   .section__header {
-    animation: show-up .5s .25s both;
+    animation: show-from .5s .25s both;
   }
   .description {
     p {
-      animation: show-up .5s .25s both;
+      animation: show-from .5s .25s both;
     }
     .buttons {
-      animation: show-up .5s .5s both;
+      animation: show-from .5s .5s both;
     }
   }
   .image__inner {
