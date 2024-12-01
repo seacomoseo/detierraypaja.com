@@ -15,23 +15,29 @@ rows:
     slider: true
   items:
   - title: Maria Isabel Carbajal
-    description: |
-      Estamos muy contentos con la casita de balas de paja y el water seco de revoco que nos han hecho.
+    description: >
+      Estamos muy contentos con la casita de balas de paja y el water seco de
+      revoco que nos han hecho.
+
 
       Seriedad, compromiso y calidad.
-  - title: Judit Gil
-    description: |
-      Muy rápido y el trabajo a la perfección.
+  - title: Maria Lopez Franco
+    description: >
+      Profesionalidad, seriedad y compromiso
 
-      Muy contenta.
+      Me han construido una vivienda maravillosa y una minicasa aun mas maravillosa, pero lo mejor es que el periodo de construcción me ha resultado sencillo y fácil ya que ellos estaban siempre pendientes de todo, como si estuviesen construyendo su propia casa, cada detalle importa. Gracias por hacerlo tan fácil y bonito.
   - title: Luis Rojo
-    description: |
-      En mi finca hicieron un wáter seco de madera precioso, con recogida de aguas pluviales y muy luminoso.
+    description: >
+      En mi finca hicieron un wáter seco de madera precioso, con recogida de
+      aguas pluviales y muy luminoso.
 - type: columns
   items:
-  - description: |
+  - description: >
       Más reseñas:
+
       {.subtitle}
 
+
       [btn icon-star Google](https://g.page/r/CU1QeFCO9R6yEAg/review "noindex")
+
       [btn icon-star Facebook](https://www.facebook.com/detierraypaja/reviews/ "noindex")
