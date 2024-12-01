@@ -14,7 +14,7 @@ rows:
     color: white
     ratio: 3x2
     inset: true
-    padding: .5
+    padding: 0.5
   items:
   - title: Revestimientos de tierra
     link: /servicios/#revestimientos-tierra
@@ -25,27 +25,6 @@ rows:
   - title: Filtros biológicos
     link: /servicios/#filtros-biologicos
     image: filtros-biologicos-2022-03-17-10-57-11.jpg
-  - title: Cubiertas vegetales vivas
-    link: /servicios/#cubiertas-vegetales-vivas
-    image: cubiertas-vegetales-vivas-2019-07-09-21-05-52.jpg
-  - title: Cubiertas microventiladas de teja
-    link: /servicios/#cubiertas-microventiladas-teja
-    image: cubiertas-microventiladas-teja-2021-06-30-23-13-22.jpg
-  - title: Estructuras de caña viva
-    link: /servicios/#estructuras-cana-viva
-    image: estructuras-cana-viva-2019-04-17-18-28-47-2.jpg
-  - title: Murales
-    link: /servicios/#murales
-    image: murales-2019-09-29-13-55-15.jpg
-  - title: Muros de piedra
-    link: /servicios/#muros-piedra
-    image: muros-piedra-2020-05-29-19-03-02.jpg
-  - title: Pérgolas de madera
-    link: /servicios/#pergolas-madera
-    image: pergolas-madera-1158.jpg
-  - title: Energía solar y aerotermia
-    link: /servicios/#energia-solar-aerotermia
-    image: energia-solar-aerotermia-2022-03-17-0013.jpg
   - title: Baños secos
     link: /servicios/#banos-secos
     image: water-seco-2021-06-27-17-38-22.jpg
