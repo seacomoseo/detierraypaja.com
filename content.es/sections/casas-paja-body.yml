@@ -41,7 +41,7 @@ rows:
     more:
       align_y: center
   - order: 4
-    bg: casas-paja-2020-11-17-19-15-48.jpg
+    bg: /photo_2024-12-01_21-31-03.jpg
   - title: Qué
     subtitle: Construimos
     order: 5
