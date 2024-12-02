@@ -11,10 +11,16 @@ rows:
     align: left
   items:
   - order: 0
-    bg: casas-paja-2021-12-29-11-28-59.jpg
+    bg: /photo_2024-12-01_21-31-28.jpg
   - order: 1
-    description: |
-      Construimos viviendas con balas de paja y criterios que permitan avanzar hacia un mundo mas respetuoso, utilizando materiales que cuiden del medio ambiente y de las personas. El objetivo es la construcción de hogares saludables y de mayor calidad en cuanto al confort que proporcionan los materiales nobles, su comportamiento bioclimático o la personalización de los diseños.
+    description: >
+      Construimos viviendas con balas de paja y criterios que permitan avanzar
+      hacia un mundo mas respetuoso, utilizando materiales que cuiden del medio
+      ambiente y de las personas. El objetivo es la construcción de hogares
+      saludables y de mayor calidad en cuanto al confort que proporcionan los
+      materiales nobles, su comportamiento bioclimático o la personalización de
+      los diseños.
+
 
       Materiales también con grandes ventajas como la bala de paja, se están poniendo en valor dada la gran eficacia constructiva que aporta para la construcción de una vivienda.
     more:
@@ -24,10 +30,13 @@ rows:
   - title: Ofrecemos
     subtitle: Un servicio integral para
     order: 2
-    description: |
+    description: >
       - **Asesoramiento** a autoconstructores
+
       - Nos ocupamos de toda la **gestión** del desarrollo de la obra, proyecto, tramites administrativos, construcción
+
       - Desarrollamos proyectos en los que el alto **rendimiento energético** permite acumular energía y ahorro
+
       - **Formación** en bioconstrucción tanto para profesionales como para personas que quieran descubrir nuevas formas de crear espacios sostenibles
     more:
       align_y: center
@@ -36,11 +45,15 @@ rows:
   - title: Qué
     subtitle: Construimos
     order: 5
-    description: |
+    description: >
       - Viviendas
+
       - Viviendas colaborativas (Cohousing)
+
       - Formación 
+
       - Proyectos destinados a la autosuficiencia energetica
+
 
       Trabajamos con arquitectos, ayuntamientos y cualquier persona interesada en generar un cambio de paradigma en la forma de construir.
     more:
