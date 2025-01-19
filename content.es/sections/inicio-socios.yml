@@ -15,7 +15,8 @@ rows:
     button: hide
     grayscale: true
   items:
-  - image: logo-amadome.png
+  - image: /red-de-construccion-con-paja.png
+    link: https://www.casasdepaja.org/
   - link: https://agroecologiamurcia.org/
     label: El Borrico
     image: logo-el-borrico.svg
