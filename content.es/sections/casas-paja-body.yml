@@ -44,17 +44,13 @@ rows:
   - title: Qué
     subtitle: Construimos
     order: 5
-    description: >
+    description: |
       - Viviendas
-
       - Viviendas colaborativas (Cohousing)
-
-      - Formación 
-
+      - Formación
       - Proyectos destinados a la autosuficiencia energetica
 
-
-      Trabajamos con arquitectos, ayuntamientos y cualquier persona interesada en generar un cambio de paradigma en la forma de construir.
+      Trabajamos con arquitectos, ayuntamientos y cualquier persona interesada.
     more:
       align_y: center
 - type: columns
