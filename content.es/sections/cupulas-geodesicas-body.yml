@@ -1,4 +1,4 @@
-title: Cúpulas Geodésicas
+title: domos
 color: white
 more:
   flip_x: true
@@ -13,10 +13,14 @@ rows:
   - order: 0
     bg: cupulas-geodesicas-2020-09-22-18-20-12.jpg
   - order: 1
-    description: |
-      - Las Cupulas Geodesicas son construcciones sostenibles a nivel de estructura y eficiencia energética.
+    description: >
+      - Las Cupulas Geodesicas son construcciones sostenibles a nivel de
+      estructura y eficiencia energética.
+
       - Estructura, se distribuye por igual, logrando así una estabilidad total.
+
       - Ahorro energético , Su forma semiesférica permite una perfecta circulación del aire, mejorando la eficiencia energética.
+
       - Rápido de construir, la construcción de la estructura es mucho más rápida que cualquier sistema tradicional, lo que te ahorrará tiempo y economía.
     more:
       align_y: center
