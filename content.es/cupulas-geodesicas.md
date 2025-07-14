@@ -1,7 +1,7 @@
 ---
 title: domo
 title_seo: ᐅ Cúpulas Geodésicas 【 De Tierra y Paja 】
-slug: cupulas-geodesicas
+slug: domo
 description: llll➤ Proyectos de Bioconstrucción ☑️ con Cúpulas Geodésicas
   centradas en la madera, la tierra y la paja como materiales para la
   construcción de viviendas.
