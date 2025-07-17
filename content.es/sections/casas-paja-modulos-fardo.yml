@@ -1,4 +1,4 @@
-title: Módulos Prefabricados FARDO
+title: Módulos  FARDO
 color: link-dark
 more:
   flip_x: false
@@ -11,7 +11,7 @@ rows:
     align: left
   items:
   - order: 0
-    bg: modulo-fardo.jpg
+    bg: /modulo-muestra-.jpg
   - order: 1
     description: >
       Los módulos FARDO son un sistema constructivo de madera estructural y
