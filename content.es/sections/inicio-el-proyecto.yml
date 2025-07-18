@@ -1,5 +1,5 @@
-id: De-Tierra Y Paja
-title: De Tierra Y Paja
+id: El-Proyecto
+title: EL Proyecto
 subtitle: De Tierra y Paja
 color: white
 more:
@@ -13,7 +13,7 @@ rows:
     align: left
   items:
   - order: 0
-    bg: /img_2285.jpg
+    bg: /dji_0420.jpg
   - order: 1
     description: >+
       Desde hace 10 años nos dedicamos a trabajar con personas que quieran
