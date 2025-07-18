@@ -15,12 +15,12 @@ rows:
   - order: 0
     bg: /img_2285.jpg
   - order: 1
-    description: >
+    description: >+
       Desde hace 10 años nos dedicamos a trabajar con personas que quieran
       desarrollar proyectos con una visión en la construcción de viviendas que
       nos lleven a crear espacios que aporten materiales naturales, con el fin
-      de crear casas sanas y personas sanas. Proyectos que generen una
-      sostenibilidad a medio y largo plazo.
+      de crear casas sanas. Proyectos que generen una sostenibilidad a medio y
+      largo plazo.
 
 
       Para ello tenemos en cuenta los criterios de:
@@ -37,6 +37,10 @@ rows:
       - Personas
 
       - I+D
+
+
+
+
     more:
       align_y: center
   - order: 3
