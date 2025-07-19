@@ -29,14 +29,17 @@ rows:
   - title: Ofrecemos
     subtitle: Un servicio integral para
     order: 2
-    description: >
-      - **Asesoramiento** a autoconstructores
+    description: |+
+      - Familias que quieren una casa ecológica
+      - Arquitectos o diseñadores sostenibles
+      - Autoconstructores
+      - Inversores en proyectos sostenibles
+      - Administraciones públicas o rurales
+      - Comunidades o cooperativas de vivienda
 
-      - Nos ocupamos de toda la **gestión** del desarrollo de la obra, proyecto, tramites administrativos, construcción
 
-      - Desarrollamos proyectos en los que el alto **rendimiento energético** permite acumular energía y ahorro
 
-      - **Formación** en bioconstrucción tanto para profesionales como para personas que quieran descubrir nuevas formas de crear espacios sostenibles
+
     more:
       align_y: center
   - order: 4
