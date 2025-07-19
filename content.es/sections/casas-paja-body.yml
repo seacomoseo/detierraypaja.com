@@ -10,20 +10,6 @@ rows:
     num: 2
     align: left
   items:
-  - order: 0
-    bg: /imagen-de-whatsapp-2025-04-03-a-las-06.40.57_46bc8285.jpg
-  - order: 1
-    description: >
-      Construimos viviendas utilizando materiales que cuiden del medio ambiente
-      y de las personas. El objetivo es la construcción de hogares saludables y
-      de mayor calidad en cuanto al confort que proporcionan los materiales
-      nobles, su comportamiento bioclimático o la personalización de los
-      diseños.
-
-
-      Materiales también con grandes ventajas como la bala de paja, se están poniendo en valor dada la gran eficacia constructiva y la alta eficiencia energetica que aporta en una vivienda.
-    more:
-      align_y: center
   - order: 3
     bg: destacada-2021-12-29-11-01-44.jpg
   - title: Ofrecemos
