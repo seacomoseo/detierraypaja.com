@@ -13,18 +13,49 @@ rows:
   - order: 0
     bg: /modulo-muestra-.jpg
   - order: 1
-    description: >
-      Los módulos FARDO son un sistema constructivo de madera estructural y
-      balas de paja como aislante con unas propiedades térmicas sorprendentes.
+    description: >+
+      Los **módulos prefabricados FARDO** son unidades constructivas diseñadas
+      fuera del sitio de obra (en taller o fábrica) que se ensamblan rápidamente
+      en el terreno para formar viviendas u otras edificaciones sostenibles.
+      Están compuestos principalmente por:
 
 
-      - Con materiales naturales, con criterios de sostenibilidad, dentro de la economía circular y con una huella ecológica de mínimo impacto.
+      ### 🧱 **Componentes principales**
 
-      - Ejercen las funciones de cerramiento, aislamiento y estructura.
 
-      - Con unos valores de aislamiento acordes al estándar Alemán PASSIVHAUSE.
+      1. **Estructura de madera**:
+        - Generalmente de **madera laminada**, maciza o CLT (cross-laminated timber).
+        - Sirve como esqueleto resistente del módulo.
+      1. **Relleno de paja**:
+        - Fardos compactados de **paja de trigo, centeno o arroz**.
+        - Actúan como aislamiento térmico y acústico.
+        - Material natural, renovable y con muy baja huella de carbono.
+      1. **Revestimientos**:
+        - Internos: barro, yeso natural, placas ecológicas.
+        - Externos: madera tratada, revocos de cal, o protección ventilada.
 
-      - La gran inercia térmica de estos paneles permite amortiguar las grandes temperaturas de calor y frío.
+      ### ♻️ **Ventajas**
+
+
+      - **Alta eficiencia energética**: la paja tiene un excelente comportamiento térmico (R > 7 m²·K/W en algunos casos).
+
+      - **Sostenibilidad**: materiales renovables, locales y biodegradables.
+
+      - **Rápida construcción**: al ser prefabricados, se reduce mucho el tiempo en obra.
+
+      - **Bajo impacto ambiental**: almacenamiento de CO₂ en los materiales naturales.
+
+      - **Aislante acústico**: ideal para entornos urbanos o zonas ruidosas.
+
+      - **Regulación higrotérmica natural**: permite que la casa “respire”.
+
+
+
+
+
+
+
+
     more:
       align_y: center
 - type: columns
