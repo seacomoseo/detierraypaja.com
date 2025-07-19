@@ -47,13 +47,28 @@ rows:
   - title: Qué
     subtitle: Construimos
     order: 5
-    description: |
-      - Viviendas
-      - Viviendas colaborativas (Cohousing)
-      - Formación
-      - Proyectos destinados a la autosuficiencia energetica
+    description: >
+      En nuestra empresa construimos **viviendas sostenibles, eficientes y
+      saludables** utilizando técnicas de **bioconstrucción** y un sistema
+      modular basado en **balas de paja**.
 
-      Trabajamos con arquitectos, ayuntamientos y cualquier persona interesada.
+
+      Nos enfocamos principalmente en:
+
+
+      - **Casas unifamiliares** ecológicas
+
+      - **Edificaciones rurales y pequeñas comunidades (COHOUSING)**
+
+      - **Ampliaciones, reformas y rehabilitaciones** con criterios sostenibles
+
+      - **Espacios modulares** para usos educativos, turísticos o sociales
+
+
+      Cada proyecto se diseña a medida, integrando criterios de **eficiencia energética, confort bioclimático** y el uso de **materiales naturales y locales** como la paja, la madera y el barro.
+
+
+      Nuestro objetivo es crear construcciones que respeten el entorno, promuevan el bienestar de quienes las habitan y reduzcan su impacto ambiental desde el origen.
     more:
       align_y: center
 - type: columns
