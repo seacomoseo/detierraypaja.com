@@ -68,7 +68,7 @@ rows:
     more:
       align_y: center
   - order: 4
-    bg: ensayo-resistencia-incendios-13.jpg
+    bg: /chatgpt-image-21-jul-2025-16_19_50.png
   - title: Resistencia al Fuego
     order: 5
     description: >+
