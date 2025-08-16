@@ -1,6 +1,7 @@
 name: Casas Pasivas ➡️ Opciones
 title: Opciones
 subtitle: que te ofrecemos para construir
+color: similar
 box:
   gap_ny: 1
   gap_vs: 2
@@ -8,7 +9,7 @@ boxes:
 - box:
     cols: 4
     gap_vs: 1
-    color: white
+    color: similar
     inset: true
   boxes:
   - title: TS30

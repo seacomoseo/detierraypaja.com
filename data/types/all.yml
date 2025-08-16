@@ -1,6 +1,6 @@
 title: Todas
 tpl:
-  bi:
+  bg:
     color: white
   menu:
     logo: true
@@ -26,7 +26,7 @@ tpl:
   - file: base-related
   list:
     cols: 3
-    color: white
+    color: similar
     shade: true
     inset: true
     ratio: 16/9

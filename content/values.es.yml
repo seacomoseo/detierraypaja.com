@@ -1,4 +1,6 @@
 title: Valores Globales
+
+
 menu:
   image: base/logo-h.svg
   items:
@@ -20,8 +22,49 @@ menu:
   - link: https://agroecologiamurcia.org/
     label: Formación
     button: main
+
+
+projects:
+
+- image: casas-pasivas-2024-07-17-08-24-31.jpg
+  id: proyecto-1
+  link: '#proyecto-1'
+  title: Proyecto 1
+  md: |
+    Este es un ejemplo de un proyecto de construcción con módulos prefabricados de madera y balas de paja.
+
+    La imagen muestra la estructura básica del módulo, que se ensamblará en el sitio para formar una vivienda sostenible.
+
+- image: casas-pasivas-2024-07-17-08-29-01.jpg
+  id: proyecto-2
+  link: '#proyecto-2'
+  title: Proyecto 2
+  md: |
+    Este es un ejemplo de un proyecto de construcción con módulos prefabricados de madera y balas de paja.
+
+    La imagen muestra la estructura básica del módulo, que se ensamblará en el sitio para formar una vivienda sostenible.
+
+- image: plano.webp
+  id: proyecto-3
+  link: '#proyecto-3'
+  title: Proyecto 3
+  md: |
+    Este es un ejemplo de un proyecto de construcción con módulos prefabricados de madera y balas de paja.
+
+    La imagen muestra la estructura básica del módulo, que se ensamblará en el sitio para formar una vivienda sostenible.
+
+- image: casas-pasivas-2024-02-22-08-50-40.jpg
+  id: proyecto-4
+  link: '#proyecto-4'
+  title: Proyecto 4
+  md: |
+    Este es un ejemplo de un proyecto de construcción con módulos prefabricados de madera y balas de paja.
+
+    La imagen muestra la estructura básica del módulo, que se ensamblará en el sitio para formar una vivienda sostenible.
+
+
 footer:
-  color: cta-dark
+  color: dark
   div: curve-corner
   space: 2
   dots:

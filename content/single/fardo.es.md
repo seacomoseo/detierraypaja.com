@@ -1,5 +1,5 @@
 ---
-title: FARDO
+title: Fardo
 seo: ᐅ Módulos Prefabricados FARDO para Casas Pasivas de Paja
 slug: fardo
 description: 'llll➤ Sistema modular de madera y paja con estándar Passivhaus. Diseño y construcción: ☑️ alto aislamiento, máximo confort y montaje rápido.'

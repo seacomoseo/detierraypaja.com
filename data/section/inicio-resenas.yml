@@ -7,7 +7,7 @@ boxes:
 
 - review:
     call: 'Más reseñas:'
-    color: white
+    color: similar
     slider: true
     cols: 3
 

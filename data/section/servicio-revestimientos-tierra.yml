@@ -31,5 +31,5 @@ gallery:
   gray: false
   cols: 4
   type: rows
-  color: white
+  color: similar
   contain: true

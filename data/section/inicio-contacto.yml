@@ -3,7 +3,7 @@ id: contacto
 title: Contacto
 subtitle: Pregunta sin compromiso
 menu_button: cta
-color: white
+color: similar
 size: lg
 box:
   cols: 2

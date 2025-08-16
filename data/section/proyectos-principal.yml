@@ -1,6 +1,7 @@
 name: Fardo ➡️ Principal
 id: principal
 hanchor: Principal
+color: similar
 box:
   cols: 0
   gap_vs: 1

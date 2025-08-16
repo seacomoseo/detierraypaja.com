@@ -11,5 +11,5 @@ gallery:
   gray: false
   cols: 2
   type: rows
-  color: white
+  color: similar
   contain: true

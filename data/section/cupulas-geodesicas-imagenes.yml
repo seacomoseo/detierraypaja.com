@@ -1,6 +1,6 @@
 name: Cúpulas Geodésicas ➡️ Imágenes
 title: Imágenes
-color: main-light
+color: similar
 images:
 - cupulas-geodesicas-2013-03-24-12-43-30.jpg
 - cupulas-geodesicas-2013-06-20-20-31-26.jpg
@@ -58,5 +58,5 @@ gallery:
   gray: false
   cols: 4
   type: rows
-  color: white
+  color: similar
   contain: true

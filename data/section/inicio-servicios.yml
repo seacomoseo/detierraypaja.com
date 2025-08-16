@@ -3,7 +3,7 @@ id: servicios
 title: Servicios
 subtitle: Arquitectura y Bioconstrucción
 box:
-  color: white
+  color: similar
   ratio: 3/2
   inset: true
   pd: 0.5

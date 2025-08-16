@@ -1,7 +1,6 @@
 name: Casas Pasivas ➡️ Principal
 id: principal
 hanchor: Principal
-color: white
 box:
   duo: 1
   gap_vs: 4
@@ -38,7 +37,7 @@ boxes:
     Nuestro objetivo es crear construcciones que respeten el entorno, promuevan el bienestar de quienes las habitan y reduzcan su impacto ambiental desde el origen.
   align_y: center
 
-- bi: plano-2.jpg
+- bi: plano.webp
 - title: ARQUITECTOS
   subtitle: Soluciones constructivas en paja para arquitectura sostenible
   md: |

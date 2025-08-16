@@ -26,9 +26,9 @@ org:
   - De Tierra y Paja
   - 'De Tierra y Paja: Cooperativa de Bioconstrucción y Arquitectura'
   description: Proyectos de Bioconstrucción que se centran en la tierra, la paja y la madera como materiales para la construcción de viviendas.
-  legal: De Tierra y Paja
-  nif: 52815938A
-  email: info@detierraypaja.com
+  legal: SANCHEZ, CRISTIAN
+  nif: X4646120M
+  email: themperenergia@hotmail.com
   logo: base/poster.jpg
   images:
   - casas-paja-2022-03-16-18-09-31.jpg
@@ -84,6 +84,7 @@ org:
   - https://www.facebook.com/detierraypaja
   - https://www.instagram.com/detierraypaja/
   phones:
+  - 677 60 81 71
   - 679 53 64 15
   address:
     name: De Tierra y Paja
@@ -93,6 +94,7 @@ org:
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.172206,37.967380]}'
+    legal: Av. de Murcia, 92, 30836 Murcia
   areas:
   - Murcia
   schedule:

@@ -2,7 +2,7 @@ name: Inicio ➡️ Por qué
 id: por-que
 title: Por qué
 subtitle: Elegirnos?
-color: white
+color: similar
 step:
   icon_size: 3
 steps:

@@ -2,7 +2,7 @@ name: Inicio ➡️ Presentación
 id: presentacion
 title: Presentación
 subtitle: De Tierra y Paja
-color: white
+color: similar
 box:
   duo: 1
   align: left
