@@ -16,7 +16,7 @@ menu:
   #   label: Por qué
   # - link: '#resenas'
   #   label: Reseñas
-  - link: '#contacto'
+  - link: '/#contacto'
     label: Contacto
     button: cta
   - link: https://agroecologiamurcia.org/
