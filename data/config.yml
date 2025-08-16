@@ -9,6 +9,7 @@ cms:
   logo: base/icon.svg
 others:
   show: true
+  cookies_advanced: true
 
 params:
 - name: projects
