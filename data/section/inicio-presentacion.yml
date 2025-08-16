@@ -1,0 +1,19 @@
+name: Inicio ➡️ Presentación
+id: presentacion
+title: Presentación
+subtitle: De Tierra y Paja
+color: white
+box:
+  duo: 1
+  align: left
+boxes:
+- bi: /dji_0420.jpg
+- md: |
+    En De Tierra y Paja nos especializamos en la construcción de viviendas sostenibles utilizando balas de paja como sistema constructivo principal.
+
+    Empleamos un método modular que permite levantar estructuras de forma rápida, eficiente y con un bajo impacto ambiental.
+
+    Ofrecemos un servicio integral que incluye diseño bioclimático, fabricación de módulos, montaje en obra y asesoría personalizada en todo el proceso. Las casas que construimos son altamente aislantes, energéticamente eficientes, saludables y hechas con materiales naturales y locales.
+
+    Nuestra misión es crear espacios confortables, duraderos y en armonía con el entorno, promoviendo una forma de habitar más consciente y responsable.
+  align_y: center

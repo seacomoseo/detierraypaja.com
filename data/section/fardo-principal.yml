@@ -1,0 +1,76 @@
+name: Fardo ➡️ Principal
+id: principal
+hanchor: Principal
+color: white
+box:
+  duo: 2
+  gap_vs: 4
+  align: left
+  align_vl: left
+boxes:
+
+
+- bi: imagen-de-whatsapp-2025-04-03-a-las-06.41.58_b720c996.jpg
+- title: Módulos Prefabricados FARDO
+  md: |
+    Son un sistema constructivo de madera estructural y balas de paja como aislante con unas propiedades térmicas sorprendentes.
+
+    - Con materiales naturales, con criterios de sostenibilidad, dentro de la economía circular y con una huella ecológica de mínimo impacto.
+    - Ejercen las funciones de cerramiento, aislamiento y estructura.
+    - Con unos valores de aislamiento acordes al estándar Alemán PASSIVHAUSE.
+    - La gran inercia térmica de estos paneles permite amortiguar las grandes temperaturas de calor y frío.
+  align_y: center
+
+
+- bi: chatgpt-image-19-jul-2025-16_01_28.png
+  rate: 3/4
+- md: |
+    Son unidades constructivas diseñadas fuera del sitio de obra (en taller o fábrica) que se ensamblan rápidamente en el terreno para formar viviendas u otras edificaciones sostenibles. Están compuestos principalmente por:
+
+    #### Componentes principales
+
+    - **Estructura de madera**
+      - Generalmente de **madera laminada**, maciza o CLT (cross-laminated timber).
+      - Sirve como esqueleto resistente del módulo.
+    - **Relleno de paja**
+      - Fardos compactados de **paja de trigo, centeno o arroz**.
+      - Actúan como aislamiento térmico y acústico.
+      - Material natural, renovable y con muy baja huella de carbono.
+    - **Revestimientos**
+      - Internos: barro, yeso natural, placas ecológicas.
+      - Externos: madera tratada, revocos de cal, o protección ventilada.
+
+    #### Ventajas
+
+    - **Alta eficiencia energética**: la paja tiene un excelente comportamiento térmico (R > 7 m²·K/W en algunos casos).
+    - **Sostenibilidad**: materiales renovables, locales y biodegradables.
+    - **Rápida construcción**: al ser prefabricados, se reduce mucho el tiempo en obra.
+    - **Bajo impacto ambiental**: almacenamiento de CO₂ en los materiales naturales.
+    - **Aislante acústico**: ideal para entornos urbanos o zonas ruidosas.
+    - **Regulación higrotérmica natural**: permite que la casa “respire”.
+  align_y: center
+
+
+- bi: chatgpt-image-21-jul-2025-16_19_50.png
+  rate: 1/1
+- title: Resistencia al Fuego
+  md_index: 6
+  md: |
+    La **alta resistencia al fuego de un panel prefabricado con balas de paja** puede parecer contradictoria al pensar que la paja es un material combustible. Sin embargo, cuando se utiliza correctamente en construcción, especialmente en forma de paneles compactados, la paja presenta una **sorprendentemente buena resistencia al fuego**. Esto se debe a varios factores clave:
+
+    #### Alta densidad y compactación
+
+    Las balas de paja utilizadas en la construcción están fuertemente compactadas. Esta compactación **reduce el acceso del oxígeno al interior del panel**, lo que dificulta la combustión. El fuego necesita oxígeno para propagarse, y en un medio tan denso, el oxígeno disponible es mínimo.
+
+    #### Recubrimiento con materiales no combustibles
+
+    Los paneles prefabricados de paja suelen ir **revestidos con materiales resistentes al fuego**, como revoques de arcilla, cal o incluso yeso. Este recubrimiento actúa como una **barrera térmica** que protege la paja interior del calor directo y las llamas.
+
+    #### Comportamiento térmico de la paja
+
+    La paja, al estar comprimida, no permite que las llamas penetren rápidamente. Además, en caso de exposición al fuego, **forma una capa carbonizada exterior** que aísla y protege el material interno, retrasando aún más la combustión.
+
+    #### Ensayos y certificaciones
+
+    Diversos ensayos de resistencia al fuego han demostrado que los muros con balas de paja **pueden resistir entre 60 y 120 minutos o más** sin colapsar estructuralmente ni permitir el paso del fuego, cumpliendo normativas exigentes en varios países.
+  align_y: center

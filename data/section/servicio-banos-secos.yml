@@ -1,0 +1,20 @@
+name: Servicio ➡️ Banos Secos
+id: banos-secos
+title: Baños secos
+images:
+- water-seco-2021-06-27-17-38-10.jpg
+- water-seco-2021-06-27-17-38-22.jpg
+- water-seco-2021-07-12-0005.jpg
+- water-seco-2021-07-12-0006.jpg
+- water-seco-2021-12-23-13-19-05.jpg
+- water-seco-2020-05-05-13-06-46.jpg
+- water-seco-2020-05-20-13-32-17.jpg
+- water-seco-2020-05-20-13-32-33.jpg
+- water-seco-2020-07-07-15-45-17.jpg
+- water-seco-2020-07-21-10-51-18.jpg
+gallery:
+  gray: false
+  cols: 4
+  type: rows
+  color: white
+  contain: true

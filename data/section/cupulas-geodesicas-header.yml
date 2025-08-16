@@ -1,0 +1,17 @@
+name: Cúpulas Geodésicas ➡️ Header
+title: Cúpulas Geodésicas
+subtitle: Arquitectura y Bioconstrucción
+image: base/icon.svg
+bi: destacada-2021-12-01-20-09-40.jpg
+fade: dark
+md: |
+  <!--
+  Siguiendo el modelo sostenible de la naturaleza
+  {.subtitle}
+  Proyectos de Bioconstrucción de Viviendas centrados en Tierra, Paja y Madera
+  -->
+
+  [[Ver Más]](#more:)
+parallax: fix
+fade_type: linear-r
+alpha: 0.7

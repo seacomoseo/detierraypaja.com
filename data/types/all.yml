@@ -1,0 +1,40 @@
+title: Todas
+tpl:
+  bi:
+    color: white
+  menu:
+    logo: true
+    logo_align: left
+    transparent: true
+    size: sm
+    sticky: auto
+    color: white
+    hide_icons: true
+  callnow: auto
+  section:
+  - size: sm
+  sections:
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
+  list:
+    cols: 3
+    color: white
+    shade: true
+    inset: true
+    ratio: 16/9
+    icon: hide
+    align: left
+    button: hide
+    tags:
+    - type: date
+    - type: address
+  related:
+    slider: true

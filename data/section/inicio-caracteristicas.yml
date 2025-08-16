@@ -1,0 +1,24 @@
+name: Inicio ➡️ Características
+id: caracteristicas
+title: Características
+subtitle: Tenemos en cuenta los criterios de...
+color: dark
+bi: img_2296.jpg
+alpha: 0.3
+box:
+  cols: 6
+  cols_vs: 2
+  icon_size: 4
+boxes:
+- icon: lightbulb
+  title: Eficiencia Energética
+- icon: leaf
+  title: Ecología
+- icon: arrows-rotate
+  title: Economía Circular
+- icon: people-group
+  title: Personas
+- icon: seedling
+  title: Desarrollo Sostenible
+- icon: dna
+  title: I+D

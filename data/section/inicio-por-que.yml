@@ -1,0 +1,20 @@
+name: Inicio ➡️ Por qué
+id: por-que
+title: Por qué
+subtitle: Elegirnos?
+color: white
+step:
+  icon_size: 3
+steps:
+- title: Salud del hábitat
+  md: No utilizamos materiales tóxicos en la construcción de tu casa, una casa sana tiene personas sanas
+  icon: house-medical
+- title: Ahorro de tiempo
+  md: Construimos módulos que permiten acelerar el proceso constructivo en la obra
+  icon: clock
+- title: Ahorro energético
+  md: Viviendas con la máxima eficiencia energética y un consumo casi nulo cumpliendo con requisitos Passivhaus
+  icon: bolt
+- title: Calidad del aire interior
+  md: Construimos con revocos y morteros naturales para que tu hogar sea un lugar sano, y traspirable regulando de forma natural la humedad del interior
+  icon: wind

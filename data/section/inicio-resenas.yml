@@ -1,0 +1,82 @@
+name: Inicio ➡️ Reseñas
+id: resenas
+title: Reseñas
+subtitle: Opinan de nosotros
+
+boxes:
+
+- review:
+    call: 'Más reseñas:'
+    color: white
+    slider: true
+    cols: 3
+
+  reviews:
+
+  - title: María L.
+    md: |
+      Profesionalidad, seriedad y compromiso.
+
+      Me han construido una vivienda maravillosa y una minicasa aun mas maravillosa, pero lo mejor es que el periodo de construcción me ha resultado sencillo y fácil ya que ellos estaban siempre pendientes de todo, como si estuviesen construyendo su propia casa, cada detalle importa.
+
+      Gracias por hacerlo tan fácil y bonito.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWBwFCQhffKPU3qSv06KncfSJpe6JGyfk9bcpxoFR4_gVOG1rs=s136
+
+  - title: María I.
+    md: |
+      Estamos muy contentos con la casita de balas de paja y el water seco de revoco que nos han hecho.
+
+      Seriedad, compromiso y calidad.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjVo0zI1zt510rF_X_FXXlE_zMrow9GfXX6MdAN-2Kq9BM-DxUjI=s136
+
+  - title: Akoba T.
+    md: |
+      ¡La adaptación siempre ha salvado a los hombres, hoy no es el momento de dar la vuelta!
+
+      ¡Bravo a todos, humano del futuro!
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjV0yIOpQlNkQAYO49nQfzJWMwWepwMvkvrLVAoStqxi9cEE09Ba=s136
+
+  - title: Luis R.
+    md: |
+      En mi finca hicieron un wáter seco de madera precioso, con recogida de aguas pluviales y muy luminoso.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjUtG6fjLoVz4aMVLaUkxIbeFlDm2MNEG0BcJsx1QMTOSFD0hWan=s136
+
+  - title: Dena A.
+    md: |
+      Asistí con ellos a un curso para la construcción de domos geodésicos y me encantó.
+
+      Profesionales y honestos.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWrGiiFgt08II6OgvKIKv7k6n7iAm67OYpHNsDuqtHjvVFogNNWlg=s136
+
+  - title: Conchi M.
+    md: |
+      Los mejores profesionales a la hora de construir o reformar tu casa con técnicas naturales!!!!
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWJg2q2bDqf3vxDPv6SXMf_Fbk9FOTNWgHk_N2biGUAw2wEUJFG=s136
+
+  - title: Judit G.
+    md: |
+      Muy rápido y el trabajo a la perfección.
+
+      Muy contenta.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a/ACg8ocLhtdFmjr1uUPmw9DlFwkt6rgwGTRQDc4XFlEJZ9Trm_bvrQA=s136
+
+  - title: Palmira L.
+    md: |
+      Buenos profesionales.
+    rating: 5
+    image: https://lh3.googleusercontent.com/a-/ALV-UjWRNV8kMEXErXlPKnvURDUqKr0ExdGfGQROPtLczI61pZCU3r4=s136
+
+- boxes:
+  - md: |
+      Más reseñas:
+      {.subtitle}
+
+      [[Google]](https://g.page/r/CU1QeFCO9R6yEAg/review "[noindex]")
+      [[Facebook]](https://www.facebook.com/detierraypaja/reviews/ "[noindex]")

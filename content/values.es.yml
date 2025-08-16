@@ -1,0 +1,37 @@
+title: Valores Globales
+menu:
+  image: base/logo-h.svg
+  items:
+  - link: /
+    label: Inicio
+  - link: /casas-pasivas/
+    label: Casas Pasivas
+  - link: /proyectos/
+    label: Proyectos
+  - link: /fardo/
+    label: Fardo
+  # - link: '#por-que'
+  #   label: Por qué
+  # - link: '#resenas'
+  #   label: Reseñas
+  - link: '#contacto'
+    label: Contacto
+    button: cta
+  - link: https://agroecologiamurcia.org/
+    label: Formación
+    button: main
+footer:
+  color: cta-dark
+  div: curve-corner
+  space: 2
+  dots:
+  - link: https://g.page/r/CU1QeFCO9R6yEAg
+  - link: https://www.facebook.com/detierraypaja
+  - link: https://www.instagram.com/detierraypaja/
+  md: |
+    - :copyright:      {{< internal-link index >}}
+    - :scale-balanced: {{< internal-link legal >}}
+    - :shield-keyhole: {{< internal-link privacy >}}
+    - :cookie-bite:    {{< internal-link cookies >}}
+    - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

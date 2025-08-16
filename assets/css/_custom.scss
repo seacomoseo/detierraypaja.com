@@ -1,40 +1,18 @@
-// Header
-
-#body-inicio #header {
-  .section__header {
-    display: none;
-    + .description {
-      margin-top: 1.5em;
-    }
-  }
-}
-
 // Header Animations
 
-.section--header {
-  .image {
-    transform-origin: center;
-    animation: show-from .5s 0s both;
-  }
-  .section__header {
-    animation: show-from .5s .25s both;
-  }
-  .description {
-    p {
-      animation: show-from .5s .25s both;
-    }
-    .buttons {
-      animation: show-from .5s .5s both;
-    }
-  }
-  .image__inner {
-    fill: var(--text);
-  }
+@mixin show-from($delay) {
+  animation: show-from .5s (.5 + .25s * $delay) both;
+}
+#header {
+  .image         { @include show-from(0); --show-from: scale(3); }
+  .box__title    { @include show-from(0); }
+  .box__subtitle { @include show-from(1); }
+  .md            { @include show-from(2); }
 }
 
 
 // Sections
 
-.column:not(#aux) .image--grayscale .image__inner {
-  filter: sepia(1);
+:root {
+  --grayscale: sepia(1);
 }

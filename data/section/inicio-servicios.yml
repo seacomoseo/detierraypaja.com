@@ -1,0 +1,24 @@
+name: Inicio ➡️ Servicios
+id: servicios
+title: Servicios
+subtitle: Arquitectura y Bioconstrucción
+box:
+  color: white
+  ratio: 3/2
+  inset: true
+  pd: 0.5
+  cols: 6
+  cols_vs: 2
+boxes:
+- title: Revestimientos de tierra
+  link: /servicios/#revestimientos-tierra
+  image: revestimientos-tierra-2018-12-16-14-40-37.jpg
+- title: Aplicación Tadelakt
+  link: /servicios/#aplicacion-tadelakt
+  image: aplicacion-tadelakt-2022-02-08-10-46-01.jpg
+- title: Filtros biológicos
+  link: /servicios/#filtros-biologicos
+  image: filtros-biologicos-2022-03-17-10-57-11.jpg
+- title: Baños secos
+  link: /servicios/#banos-secos
+  image: water-seco-2021-06-27-17-38-22.jpg
