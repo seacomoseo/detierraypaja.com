@@ -1,13 +1,23 @@
 name: Casas Pasivas ➡️ Principal
+view:
+- titles
 id: principal
 hanchor: Principal
+sort: ''
 box:
   duo: 1
   gap_vs: 4
   align: left
   align_vl: left
+  view: ''
+  sort: ''
 boxes:
 - bi: destacada-2021-12-29-11-01-44.jpg
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Ofrecemos
   subtitle: Un servicio integral para
   md: |
@@ -18,12 +28,21 @@ boxes:
     - Administraciones públicas o rurales
     - Comunidades o cooperativas de vivienda
   align_y: center
-
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - bi: photo_2024-12-01_21-31-03.jpg
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Qué
   subtitle: Construimos
   md: |
-    En nuestra empresa construimos **viviendas sostenibles, eficientes y saludables** utilizando técnicas de **bioconstrucción** y un sistema modular basado en **balas de paja**.
+    Construimos **viviendas sostenibles, eficientes y saludables** utilizando técnicas de **bioconstrucción** con un sistema modular de **balas de paja prensadas.**
 
     Nos enfocamos principalmente en:
 
@@ -36,8 +55,17 @@ boxes:
 
     Nuestro objetivo es crear construcciones que respeten el entorno, promuevan el bienestar de quienes las habitan y reduzcan su impacto ambiental desde el origen.
   align_y: center
-
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - bi: plano.webp
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: ARQUITECTOS
   subtitle: Soluciones constructivas en paja para arquitectura sostenible
   md: |
@@ -51,3 +79,11 @@ boxes:
 
     [[Contacto]](#contacto)
   align_y: center
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+modal:
+  view: ''
+  sort: ''
