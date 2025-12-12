@@ -1,13 +1,21 @@
 name: Casas Pasivas ➡️ Header
+view: ''
 title: Casas Pasivas
 subtitle: Viviendas de Bioconstrucción
 md: |
-  centradas en Tierra, Paja y Madera
+  **CON CARBONO NEGATIVO DE ENTRE 70 y 105 kg de CO₂e**
 
   [[Ver Más]](#more)
 color: dark
 bi: https://www.youtube.com/watch?v=Pql69BV9rAU#poster=dji_0420.jpg
 alpha: 0.3
-full: true
 box_color: dark
 box_color_alpha: 0.99
+full: true
+sort: ''
+box:
+  view: ''
+  sort: ''
+modal:
+  view: ''
+  sort: ''
