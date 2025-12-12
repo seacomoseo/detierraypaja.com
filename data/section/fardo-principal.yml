@@ -1,15 +1,22 @@
 name: Fardo ➡️ Principal
+view: ''
 id: principal
 hanchor: Principal
+sort: ''
 box:
   duo: 2
   gap_vs: 4
   align: left
   align_vl: left
+  view: ''
+  sort: ''
 boxes:
-
-
 - bi: imagen-de-whatsapp-2025-04-03-a-las-06.41.58_b720c996.jpg
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Módulos Prefabricados FARDO
   md: |
     Son un sistema constructivo de madera estructural y balas de paja como aislante con unas propiedades térmicas sorprendentes.
@@ -19,11 +26,19 @@ boxes:
     - Con unos valores de aislamiento acordes al estándar Alemán PASSIVHAUSE.
     - La gran inercia térmica de estos paneles permite amortiguar las grandes temperaturas de calor y frío.
   align_y: center
-
-
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - bi: chatgpt-image-19-jul-2025-16_01_28.png
   rate: 3/4
-- md: |
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+- md: |+
     Son unidades constructivas diseñadas fuera del sitio de obra (en taller o fábrica) que se ensamblan rápidamente en el terreno para formar viviendas u otras edificaciones sostenibles. Están compuestos principalmente por:
 
     #### Componentes principales
@@ -42,16 +57,29 @@ boxes:
     #### Ventajas
 
     - **Alta eficiencia energética**: la paja tiene un excelente comportamiento térmico (R > 7 m²·K/W en algunos casos).
+    - **Carbono negativo: entre 70 y 105 kg C2e**
     - **Sostenibilidad**: materiales renovables, locales y biodegradables.
     - **Rápida construcción**: al ser prefabricados, se reduce mucho el tiempo en obra.
     - **Bajo impacto ambiental**: almacenamiento de CO₂ en los materiales naturales.
     - **Aislante acústico**: ideal para entornos urbanos o zonas ruidosas.
     - **Regulación higrotérmica natural**: permite que la casa “respire”.
+
+
+
+
   align_y: center
-
-
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - bi: chatgpt-image-21-jul-2025-16_19_50.png
   rate: 1/1
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Resistencia al Fuego
   md_index: 6
   md: |
@@ -73,3 +101,11 @@ boxes:
 
     Diversos ensayos de resistencia al fuego han demostrado que los muros con balas de paja **pueden resistir entre 60 y 120 minutos o más** sin colapsar estructuralmente ni permitir el paso del fuego, cumpliendo normativas exigentes en varios países.
   align_y: center
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+modal:
+  view: ''
+  sort: ''
