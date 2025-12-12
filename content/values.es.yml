@@ -82,9 +82,9 @@ projects:
 
     **CALEFACCION CON EQUIPO DE AEROTERMIA**
 - image: plano.webp
-  id: proyecto-3
-  link: '#proyecto-3'
-  title: Proyecto 3
+  id: proyecto-4
+  link: '#proyecto-4'
+  title: Proyecto 4
   md: |
     PENDIENTE DE EJECUTAR
 footer:
