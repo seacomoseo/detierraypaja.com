@@ -44,9 +44,21 @@ projects:
   link: '#proyecto-2'
   title: Proyecto 2
   md: |
-    Este es un ejemplo de un proyecto de construcción con módulos prefabricados de madera y balas de paja.
+    **VIVIENDA UNIFAMILIAR : CON CARBONO NEGATIVO ACUMULADO DE 1.050 kg de C2e**
 
-    La imagen muestra la estructura básica del módulo, que se ensamblará en el sitio para formar una vivienda sostenible.
+    **AÑO CONSTRUCCION: 2024**
+
+    **M2 CONSTRUIDOS : 40 / UTILES: 32 M2**
+
+    **SISTEMA MODULAR FARDO**
+
+    **COMPUESTA POR 1 BAÑOS, 1 DORMITORIOS, ANEXOS DE COMEDOR COCINA**
+
+    **APLICACION EN EXTERIOR CAPA MORTERO ARCILLA +CAL**
+
+    **ALIMENTACION ENERGETICA CON INSTALACION AISLADA**
+
+    **CALEFACCION CON EQUIPO DE AEROTERMIA**
 - image: plano.webp
   id: proyecto-3
   link: '#proyecto-3'
