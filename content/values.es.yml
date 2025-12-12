@@ -59,12 +59,6 @@ projects:
     **ALIMENTACION ENERGETICA CON INSTALACION AISLADA**
 
     **CALEFACCION CON EQUIPO DE AEROTERMIA**
-- image: plano.webp
-  id: proyecto-3
-  link: '#proyecto-3'
-  title: Proyecto 3
-  md: |
-    PENDIENTE DE EJECUTAR
 - image: casas-pasivas-2024-02-22-08-50-40.jpg
   id: proyecto-4
   link: '#proyecto-4'
@@ -87,6 +81,12 @@ projects:
     **ALIMENTACION ENERGETICA CON INSTALACION AISLADA**
 
     **CALEFACCION CON EQUIPO DE AEROTERMIA**
+- image: plano.webp
+  id: proyecto-3
+  link: '#proyecto-3'
+  title: Proyecto 3
+  md: |
+    PENDIENTE DE EJECUTAR
 footer:
   color: dark
   div: curve-corner
