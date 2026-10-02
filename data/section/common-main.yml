@@ -1,0 +1,12 @@
+name: Common ➡️ Principal
+id: principal
+boxes:
+- hanchor: Principal
+  box:
+    duo: 2
+    gap_vs: 4
+    align: left
+    align_vl: left
+  get:
+  - from: main
+    to: boxes

@@ -1,0 +1,19 @@
+name: Inicio ➡️ Reseñas
+id: resenas
+boxes:
+- get:
+  - from: reviews.title
+    to: title
+  - from: reviews.sub
+    to: sub
+- get:
+  - from: reviews.items
+    to: reviews
+  review:
+    cols: 3
+    color: such
+    slider: true
+- boxes:
+  - get:
+    - from: reviews.md
+      to: md

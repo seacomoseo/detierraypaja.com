@@ -1,0 +1,13 @@
+name: Inicio ➡️ Por qué
+id: por-que
+color: such
+boxes:
+- get:
+  - from: why.title
+    to: title
+  - from: why.sub
+    to: sub
+  - from: why.steps
+    to: steps
+  step:
+    icon_size: 3

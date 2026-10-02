@@ -1,0 +1,24 @@
+name: Fardo ➡️ Principal
+id: principal
+color: such
+get:
+- from: projects
+  to: modals
+remap:
+- from: modals.*.url
+boxes:
+- hanchor: Principal
+  get:
+  - from: projects
+    to: boxes
+  remap:
+  - from: boxes.*.id
+  - from: boxes.*.md
+  box:
+    cols: 0
+    gap_vs: 1
+    card: true
+    label: Ver más
+modal:
+  color: white
+  inset: true

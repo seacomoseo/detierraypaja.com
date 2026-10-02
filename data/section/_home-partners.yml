@@ -1,0 +1,22 @@
+name: Inicio ➡️ Socios
+id: socios
+size: md
+boxes:
+- title: Socios
+  sub: Que nos colaboran
+  box:
+    cols: 3
+    cols_vs: 2
+    gap: 3
+    ratio: 3/2
+    gray: true
+    align_y: center
+    btn: hide
+  boxes:
+  - img: /u/socios/red-de-construccion-con-paja.svg
+    url: https://www.casasdepaja.org/
+  - img: /u/socios/el-borrico.svg
+    url: https://agroecologiamurcia.org/
+    label: El Borrico
+  - img: /u/socios/fardo.svg
+    url: /casas-paja/#modulos-prefabricados-fardo

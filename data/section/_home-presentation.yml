@@ -1,0 +1,20 @@
+name: Inicio ➡️ Presentación
+id: presentacion
+color: such
+boxes:
+- get:
+  - from: presentation.title
+    to: title
+  - from: presentation.sub
+    to: sub
+  box:
+    duo: 1
+    align: left
+  boxes:
+  - get:
+    - from: presentation.bi
+      to: bi
+  - get:
+    - from: presentation.md
+      to: md
+    align_y: center

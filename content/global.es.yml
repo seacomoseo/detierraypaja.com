@@ -1,0 +1,62 @@
+menu:
+  img: /u/base/logo-h.svg
+  items:
+  - url: /
+    label: Inicio
+  - url: /casas-pasivas/
+    label: Casas Pasivas
+  - url: /proyectos/
+    label: Proyectos
+  - url: /fardo/
+    label: Fardo
+  - url: /#contacto
+    label: Contacto
+    btn: cta
+  - url: https://agroecologiamurcia.org/
+    label: Formación
+    btn: main
+options:
+  title: Opciones
+  sub: que te ofrecemos para construir
+  items:
+  - title: TS30
+    url: /u/modulos-prefabricados/fardo-modelo-ts30.png
+    label: Ampliar
+    img: /u/modulos-prefabricados/fardo-modelo-ts30.png
+    md: Para personas que buscan practicidad , en un espacio optimizado y tenerlo todo a mano
+  - title: TS40
+    url: /u/modulos-prefabricados/fardo-modelo-ts40.png
+    label: Ampliar
+    img: /u/modulos-prefabricados/fardo-modelo-ts40.png
+    md: Un espacio acogedor y versátil, a punto para refugiarse en un espacio único
+  - title: TS60
+    url: /u/modulos-prefabricados/fardo-modelo-ts60.png
+    label: Ampliar
+    img: /u/modulos-prefabricados/fardo-modelo-ts60.png
+    md: Se le puede sacar mas partido a una idea de compartir en familia y con los tuyos
+  - title: TS100
+    url: /u/modulos-prefabricados/fardo-modelo-ts100.png
+    label: Ampliar
+    img: /u/modulos-prefabricados/fardo-modelo-ts100.png
+    md: Un hogar perfecto para reunirte contigo y la sensación de apertura al exterior
+  btns:
+  - url: /u/modulos-prefabricados/dtyp-dossier-modulos-paja-fardo-2024.pdf
+    label: Dosier
+    pin: picture_as_pdf
+  - url: /#contacto
+    label: Contacto
+footer:
+  div: tilt
+  color: dark
+  space: 2
+  dots:
+  - url: https://g.page/r/CU1QeFCO9R6yEAg
+  - url: https://www.facebook.com/detierraypaja
+  - url: https://www.instagram.com/detierraypaja/
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

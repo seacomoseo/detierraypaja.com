@@ -1,0 +1,27 @@
+name: Inicio ➡️ Contacto
+id: contacto
+color: such
+menu_btn: cta
+size: lg
+boxes:
+- get:
+  - from: contact.title
+    to: title
+  - from: contact.sub
+    to: sub
+  box:
+    cols: 2
+  boxes:
+  - get:
+    - from: contact.when
+      to: when
+    - from: contact.links
+      to: links
+    - from: contact.form
+      to: form
+    - from: contact.inputs
+      to: inputs
+  - get:
+    - from: contact.geos
+      to: geos
+    rate: 1/1

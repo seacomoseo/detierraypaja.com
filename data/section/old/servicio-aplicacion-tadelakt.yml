@@ -1,0 +1,16 @@
+name: Servicio ➡️ Aplicacion Tadelakt
+id: aplicacion-tadelakt
+boxes:
+- title: Aplicación Tadelakt
+  imgs:
+  - /u/aplicacion-tadelakt/2019-09-21-13-01-40.jpg
+  - /u/aplicacion-tadelakt/2019-09-22-15-58-49.jpg
+  - /u/aplicacion-tadelakt/2020-11-22-20-45-44.jpg
+  - /u/aplicacion-tadelakt/2022-02-08-10-46-01.jpg
+  - /u/aplicacion-tadelakt/2022-02-08-10-53-36.jpg
+  gallery:
+    gray: false
+    cols: 2
+    type: rows
+    color: such
+    contain: true

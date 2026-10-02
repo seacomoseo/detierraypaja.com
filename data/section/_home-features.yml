@@ -1,0 +1,19 @@
+name: Inicio ➡️ Características
+id: caracteristicas
+color: dark
+alpha: 0.3
+get:
+- from: features.bi
+  to: bi
+boxes:
+- get:
+  - from: features.title
+    to: title
+  - from: features.sub
+    to: sub
+  - from: features.boxes
+    to: boxes
+  box:
+    cols: 6
+    cols_vs: 2
+    icon_size: 4

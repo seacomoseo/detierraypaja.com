@@ -1,0 +1,21 @@
+name: Común ➡️ Hero
+bi: /u/portada.mp4 # https://www.youtube.com/watch?v=Pql69BV9rAU#poster=portada.jpg
+color: dark
+alpha: 0.3
+full: true
+box:
+  gap_vs: 2
+boxes:
+- get:
+  - from: hero.img
+    to: img
+  - from: hero.hanchor
+    to: hanchor
+  - from: hero.title
+    to: title
+  - from: hero.sub
+    to: sub
+  - from: hero.md
+    to: md
+- url: '#more'
+  label: Ver Más

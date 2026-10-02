@@ -1,0 +1,25 @@
+name: Común ➡️ Opciones
+id: opciones
+color: such
+boxes:
+- get:
+  - from: options.title
+    to: title
+  - from: options.sub
+    to: sub
+  box:
+    gap_vs: 2
+  boxes:
+  - box:
+      cols: 4
+      gap_vs: 1
+      color: such
+      inset: true
+    get:
+    - from: options.items
+      to: boxes
+  - box:
+      cols: 6
+    get:
+    - from: options.btns
+      to: boxes

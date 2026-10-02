@@ -1,0 +1,16 @@
+- { from: /wp-content* , to: / }
+- { from: /index.php/category/equipo/ , to: / }
+- { from: /index.php/feed/ , to: / }
+- { from: /index.php/author/admin/ , to: /autor/admin/ }
+- { from: /index.php/casas-de-paja/ , to: /casas-paja/ }
+- { from: /index.php/* , to: /:splat }
+- { from: /pdf/modulos-prefabricados-dtyp-dossier-modulos-paja.pdf , to: /u/modulos-prefabricados/dtyp-dossier-modulos-paja.pdf }
+
+# 2025-08-15
+- { from: /cupulas-geodesicas/ , to: / }
+- { from: /servicios/ , to: /proyectos/ }
+- { from: /casas-paja/ , to: /casas-pasivas/ }
+
+# 2026-10-02
+- { from: /u/modulos-prefabricados-dtyp-dossier-modulos-paja-fardo-2024.pdf , to: /u/modulos-prefabricados/dtyp-dossier-modulos-paja-fardo-2024.pdf }
+- { from: /u/modulos-prefabricados-dtyp-dossier-modulos-paja.pdf , to: /u/modulos-prefabricados/dtyp-dossier-modulos-paja.pdf }

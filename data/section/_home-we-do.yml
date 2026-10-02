@@ -1,0 +1,14 @@
+name: Inicio ➡️ Hacemos
+id: hacemos
+boxes:
+- get:
+  - from: we_do.title
+    to: title
+  - from: we_do.sub
+    to: sub
+  - from: we_do.boxes
+    to: boxes
+  box:
+    cols: 3
+    card: true
+    label: Ver más

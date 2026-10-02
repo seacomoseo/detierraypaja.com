@@ -1,0 +1,12 @@
+name: Casas Pasivas ➡️ Imágenes
+id: imagenes
+if: imgs
+ph: true
+size: fluid
+boxes:
+- title: Imágenes
+  gallery:
+    cols: 6
+    ratio: 1/1
+  get:
+  - to: imgs

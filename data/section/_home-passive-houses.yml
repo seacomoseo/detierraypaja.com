@@ -1,0 +1,12 @@
+name: Inicio ➡️ Casas de Paja
+id: casas-pasivas
+bi: /u/otras/2024-07-17-08-27-44.jpg
+full: true
+scroll: fix
+alpha: 0
+boxes:
+- title: Casas Pasivas
+  sub: Siguiendo el modelo sostenible de la naturaleza
+  box:
+    cols: 1
+- url: /casas-paja/

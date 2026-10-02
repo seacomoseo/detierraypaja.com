@@ -1,0 +1,151 @@
+- types: [ single ]
+  name: hero
+  label: Portada
+  widget: dict
+  sub:
+  - var: img
+  - var: hanchor
+  - var: title
+  - var: sub
+  - var: md
+- types: [ single ]
+  pages: [ _home ]
+  name: presentation
+  label: Presentación
+  widget: dict
+  sub:
+  - var: bi
+  - var: title
+  - var: sub
+  - var: md
+- types: [ single ]
+  pages: [ _home ]
+  name: features
+  label: Características
+  widget: dict
+  sub:
+  - var: bi
+  - var: title
+  - var: sub
+  - name: boxes
+    label: Elementos
+    widget: slice
+    sub:
+    - var: title
+    - var: icon
+- types: [ single ]
+  pages: [ _home ]
+  name: we_do
+  label: Hacemos
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: boxes
+    label: Elementos
+    widget: slice
+    sub:
+    - var: title
+    - var: sub
+    - var: url
+    - var: img
+- types: [ single ]
+  pages: [ _home ]
+  name: why
+  label: ¿Por qué?
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - var: steps
+- types: [ single ]
+  pages: [ _home ]
+  name: reviews
+  label: Reseñas
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - var: reviews
+    name: items
+  - var: md
+- types: [ single ]
+  pages: [ _home ]
+  name: contact
+  label: Contact
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - var: when
+  - var: links
+  - var: form
+  - var: inputs
+  - var: geos
+
+- types: [ single ]
+  pages: [ casas-pasivas, fardo ]
+  name: main
+  label: Detalles
+  widget: slice
+  sub:
+  - var: title
+  - var: sub
+  - var: md
+  - var: md_index
+  - var: bi
+  - var: rate
+  - var: align_y
+
+- types: [ single ]
+  var: imgs
+
+- types: [ single ]
+  pages: [ proyectos ]
+  name: projects
+  label: Proyectos
+  widget: slice
+  sub:
+  - var: id
+  - var: url
+  - var: title
+  - var: md
+  - var: img
+
+- name: options
+  label: Modelos de Casas
+  widget: dict
+  sub:
+  - var: title
+  - var: sub
+  - name: boxes
+    label: Opciones
+    widget: slice
+    sub:
+    - var: title
+    - var: url
+    - var: label
+    - var: img
+    - var: md
+  - name: btns
+    label: Botones
+    widget: slice
+    sub:
+    - var: url
+    - var: label
+    - var: pin
+- name: footer
+  label: Footer
+  widget: dict
+  sub:
+  - var: size
+  - var: color
+  - var: fade
+  - var: fade_to
+  - var: bi
+  - var: alpha
+  - var: div
+  - var: flip_x
+  - var: flip_y
+  - var: dots
+  - var: md
