@@ -2,10 +2,10 @@
 weight: 3
 slug: proyectos
 title: Proyectos
+img: /u/casas-pasivas/2024-02-22-08-50-40.jpg
 seo:
   title: ᐅ Proyectos de Bioconstrucción de Viviendas - De Tierra y Paja
   desc: llll➤ Proyectos de Bioconstrucción de Viviendas. De Paja, Tierra (Adobe) y Madera ☑️ como materiales para Bioconstrucción.
-img: /u/casas-pasivas/2024-02-22-08-50-40.jpg
 tpl:
   sections:
   - file: common-_hero
@@ -20,7 +20,7 @@ projects:
 - id: proyecto-1
   url: '#proyecto-1'
   title: Proyecto 1
-  md: |
+  md: |-
     - **Vivienda unifamiliar:** con carbono negativo acumulado de 2.100 kg por m3 de C2E
     - **Año construcción:** 2023 en la Región de Murcia
     - **m2 construidos:** 92 / **Útiles:** 82.80 m2
@@ -34,7 +34,7 @@ projects:
 - id: proyecto-2
   url: '#proyecto-2'
   title: Proyecto 2
-  md: |
+  md: |-
     - **Vivienda unifamiliar:** con carbono negativo acumulado de 1.050 kg de c2e
     - **Año construccion:** 2024 en la Región de Murcia
     - **m2 construidos:** 40 / **Útiles:** 32 m2
@@ -47,7 +47,7 @@ projects:
 - id: proyecto-3
   url: '#proyecto-3'
   title: Proyecto 3
-  md: |
+  md: |-
     - **Vivienda unifamiliar:** con carbono negativo acumulado de 2.325 kg de C2E
     - **Año construccion:** 2025 region de murcia
     - **m2 construidos:** 104/ **Útiles:** 95 m2
@@ -61,7 +61,20 @@ projects:
 - id: proyecto-4
   url: '#proyecto-4'
   title: Proyecto 4
-  md: |
-    Pendiente de ejecutar
+  md: Pendiente de ejecutar
   img: /u/planos/1.webp
+- id: proyectos
+  url: Proyecto-5
+  title: Proyecto 5
+  md: |-
+    - **Vivienda unifamiliar:** con carbono negativo acumulado de 2.100 kg por m3 de C2E
+    - **Año construcción:** 2026 en la Región de Murcia
+    - **m2 construidos:** 63 m2 / **Útiles:** 55m2
+    - Sistema modular fardo
+    - Compuesta por 1 baños, 1 dormitorios, ropero y anexos de comedor cocina
+    - Aplicación en exterior capa mortero arcilla + cal en 4 fases acabado blanco ibizenco
+    - Detalle de suelo en suelo continuo en base a cal con gravas y pigmentos
+    - Alimentación energética con instalacion aislada
+    - Calefacción con estufa de pelets
+  img: /u/img_20260723_194755.webp
 ---
