@@ -64,7 +64,7 @@ projects:
   md: Pendiente de ejecutar
   img: /u/planos/1.webp
 - id: proyectos
-  url: Proyecto-5
+  url: '#proyecto-5'
   title: Proyecto 5
   md: |-
     - **Vivienda unifamiliar:** con carbono negativo acumulado de 2.100 kg por m3 de C2E
