@@ -63,7 +63,7 @@ projects:
   title: Proyecto 4
   md: Pendiente de ejecutar
   img: /u/planos/1.webp
-- id: proyectos
+- id: proyecto-5
   url: '#proyecto-5'
   title: Proyecto 5
   md: |-
